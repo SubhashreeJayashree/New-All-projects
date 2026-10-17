@@ -1,0 +1,7 @@
+{
+  "name": "CoCounsel AI",
+  "description": "The Multi-Agent Voice Panel & Autonomous Executive Voice War-Room featuring vocal barging, acoustic emotion adaptation, cross-agent rebuttals, and dynamic decision tree sync.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
